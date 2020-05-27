@@ -7,8 +7,8 @@ CITY_DATA = { 'chicago': '.\data\chicago.csv',
               'washington': '.\data\washington.csv' }
 
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june']
-WEEKDAYS = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
 
+WEEKDAYS = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
 
 LINE_LEN = 90
 
