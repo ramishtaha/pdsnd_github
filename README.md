@@ -15,5 +15,5 @@ The following files were used for the data analysis:-
 3. washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The template code was given by Udacity
 
