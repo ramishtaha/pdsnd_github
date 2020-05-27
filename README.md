@@ -14,6 +14,7 @@ The following files were used for the data analysis:-
 2. new_york_city.csv
 3. washington.csv
 
+The script file is :- bikeshare.py
+
 ### Credits
 The template code was given by Udacity
-
